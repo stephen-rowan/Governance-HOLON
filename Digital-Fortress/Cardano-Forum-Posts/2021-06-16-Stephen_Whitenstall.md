@@ -36,7 +36,7 @@ From **20th May**, internal relations deteriorated further after it became known
 
 On **24th May** [I wrote to the Project Catalyst Moderation Team](https://github.com/NFT-DAO/Governance-HOLON/discussions/104) expressing concern that these events were not reflected in NFT-DAO’s reporting). And subsequently I left NFT-DAO.
 
-	On **24th May** [I wrote to the Project Catalyst Moderation Team](https://github.com/NFT-DAO/Governance-HOLON/discussions/104) expressing concern that these events were not reflected in NFT-DAO’s reporting. And subsequently I left NFT-DAO.
+On **24th May** [I wrote to the Project Catalyst Moderation Team](https://github.com/NFT-DAO/Governance-HOLON/discussions/104) expressing concern that these events were not reflected in NFT-DAO’s reporting. And subsequently I left NFT-DAO.
 
 ## Decision making pathway
 
