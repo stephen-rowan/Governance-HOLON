@@ -14,7 +14,7 @@ DRAFT
 
 #### Intial thoughts 
 
-Quaser convinced me to maintain my faith in Catalyst. This was borne out by the support of the Catalyst Community.
+Quasar convinced me to maintain my faith in Catalyst. This was borne out by the support of the Catalyst Community.
 
 At Townhall, Dor Gorbash and Daniel Ribar demonstrated their neutrality and provided a means to progress to resolution by public dialogue.
 
