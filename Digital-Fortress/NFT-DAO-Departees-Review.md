@@ -28,7 +28,7 @@ Rick McCracken provided a neutral platform where everyone involved could engage 
 
 Throughout Dan has been an essential ally, co-worker, and friend. 
 
-I regret that I was not able to pose questions of concern to Anna Maria and Rares of NewMindflow. Without them none of this would have come to light.
+I regret that I was not able to pose questions of concern to Anamaria and Rares of NewMindflow. Without them none of this would have come to light.
 
 I regret that I was not able to pose questions of concern to The Ancient Kraken as he has shown courage and fortitude throughout. And deserves renumeration for his contribution to NFT-DAO.
 
