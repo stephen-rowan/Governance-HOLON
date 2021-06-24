@@ -8,7 +8,7 @@ DRAFT
 
 ### Dan - 
 
-(Podcast Particpant Statement)[]
+[Podcast Particpant Statement](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Digital-Fortress/NFT-DAO-Departees-Review/Dan.md)
 
 ### Stephen - 
 
