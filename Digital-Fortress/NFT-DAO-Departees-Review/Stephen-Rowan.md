@@ -4,10 +4,7 @@ THIS IS A PUBLIC DOCUMENT
 
 DRAFT
 
-## Podcast Particpants
-
-### Dan - 
-
+## Podcast Particpant
 
 ### Stephen - 
 
@@ -32,8 +29,6 @@ I regret that I was not able to pose questions of concern to Anamaria and Rares 
 I regret that I was not able to pose questions of concern to The Ancient Kraken as he has shown courage and fortitude throughout. And deserves renumeration for his contribution to NFT-DAO.
 
 I hope I was able to pose some questions of concern to Tyler Wales. A dedicated, kind and talented man with many commitments.  
-
-
 
 
 # Lessons Learnt
