@@ -16,6 +16,6 @@ The Cardano Effect (https://www.youtube.com/c/TheCardanoEffect/videos)
 
 ## NFT-DAO-Departees-Review
 
-[NFT-DAO-Departees-Review](/Digital-Fortress/NFT-DAO-Departees-Review/Readme.md)
+[NFT-DAO-Departees-Review](/Digital-Fortress/NFT-DAO-Departees-Review/README.md)
 
 
