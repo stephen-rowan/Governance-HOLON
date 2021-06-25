@@ -17,3 +17,10 @@ Phillip - [1:43](https://youtu.be/T0pq7GkmtJ8?t=103)
 Dan - [07:20](https://youtu.be/T0pq7GkmtJ8?t=440)
 
 Stephen - [12:50](https://youtu.be/T0pq7GkmtJ8?t=770)
+
+Rich - [19:59](https://youtu.be/T0pq7GkmtJ8?t=1199)
+
+
+## General Discussion
+
+Rick introduction - [27:54](https://youtu.be/T0pq7GkmtJ8?t=1674)
