@@ -7,3 +7,9 @@
  ## Timestamps and Analysis
 
 "We are Live" - Rick - [0:25](https://youtu.be/T0pq7GkmtJ8?t=25)
+
+Introduction and Ground Rules - Rick
+
+Phillip - [1:43](https://youtu.be/T0pq7GkmtJ8?t=103)
+
+Dan - [07:20](https://youtu.be/T0pq7GkmtJ8?t=440)
