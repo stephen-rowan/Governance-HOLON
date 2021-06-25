@@ -18,3 +18,8 @@ The Cardano Effect (https://www.youtube.com/c/TheCardanoEffect/videos)
 ## Cardano Forum Discussion
 
 https://forum.cardano.org/t/nft-dao-departure-discussion-fund-3-and-4/64724
+
+
+## NFT-DAO Proposals
+
+https://cardano.ideascale.com/a/pmd/3071109-48088?
