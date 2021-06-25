@@ -14,4 +14,8 @@ The Cardano Effect (https://www.youtube.com/c/TheCardanoEffect/videos)
 
 [Timestamps and analysis of the podcast](../Digital-Fortress/Timestamps.md)
 
+## NFT-DAO-Departees-Review
+
+[NFT-DAO-Departees-Review](/Digital-Fortress/NFT-DAO-Departees-Review/Readme.md)
+
 
