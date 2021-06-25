@@ -1,4 +1,4 @@
-# Rick McCracken Youtube Discussion of NFT-DAO departures
+# Rick McCracken "Digital-Fortress", Youtube Discussion of NFT-DAO departures
 ## and associated reference information.
 
 ## Rick McCracken Youtube Channels
