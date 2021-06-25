@@ -1,6 +1,6 @@
 
 
-## NFT-DAO Discussion of Events Timestamps
+## NFT-DAO Discussion of Events Timestamps and Analysis
 
 https://www.youtube.com/watch?v=T0pq7GkmtJ8
 
