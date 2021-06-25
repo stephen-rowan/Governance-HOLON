@@ -1,4 +1,5 @@
-# Rick McCracken Youtube Discussion of NFT-DAO departures and associated information.
+# Rick McCracken Youtube Discussion of NFT-DAO departures
+## and associated reference information.
 
 ## Rick McCracken Youtube Channels
 
