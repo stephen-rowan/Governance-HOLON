@@ -10,5 +10,8 @@ Digital Fortress (https://www.youtube.com/c/DigitalFortress/videos )
 
 The Cardano Effect (https://www.youtube.com/c/TheCardanoEffect/videos)
 
+## The Podcast
 
 [Timestamps and analysis of the podcast](../Digital-Fortress/Timestamps.md)
+
+
